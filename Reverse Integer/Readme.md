@@ -6,6 +6,7 @@
 # Time - O(n) where n is the number of digits.
 # Space - O(n), same number of digits in output as input.
 
+# STEP BY STEP:
 
 # 1. To reverse the digits of an integer `x`, we can repeatedly multiply the previous result by 10 and add the last 
    # digit of `x`.

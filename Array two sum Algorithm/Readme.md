@@ -7,6 +7,7 @@
 # Time - O(n)
 # Space - O(n) for the dictionary
 
+# STEP BY STEP:
 
 # 1. Create an empty dictionary called `num_to_index` to maintain a mapping from each number to its index in the `nums`
    # array.
